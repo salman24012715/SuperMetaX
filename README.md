@@ -21,7 +21,6 @@ Open **[SMX_engine.html](SMX_engine.html)** for the full documentation with a
 
 ```
 /SuperMetaX
-├── build_docs.py      # Build & deploy automation (excluded from git)
 ├── SMX_engine.md      # Raw Markdown documentation source
 ├── SMX_engine.html    # Compiled dark-theme documentation
 ├── README.md          # This file
@@ -29,12 +28,6 @@ Open **[SMX_engine.html](SMX_engine.html)** for the full documentation with a
     └── images/        # Screenshot assets (image_p1_1.jpeg … image_p17_1.jpeg)
 ```
 
-## How to Build
-
-```bash
-pip install markdown
-python build_docs.py
-```
 
 ## Author
 
